@@ -1,0 +1,29 @@
+#include <stdio.h>
+int main()
+{
+	printf("Hello World!");
+}
+
+"C:\Users\kang6\OneDrive\사진\스크린샷\2022-03-31.png"
+#include <stdio.h>
+int main()
+
+{
+	printf("|\\_\/|\n");
+	printf("|q  p|    \/\n");
+	printf("(  0  )\"\"\"\\ \n");
+	printf("|\"^\"\'    |\n");
+	printf("||_\/=\\\\__|\n");
+}
+"C:\Users\kang6\OneDrive\사진\스크린샷\2022-03-31 (1).png"
+
+#include <stdio.h>
+int main()
+int num;
+{
+	printf("양의 정수를 입력하시오 :");
+	scanf("%d", &num);
+	printf("| number | decimal | octal | hexadecimal\n");
+	printf("%d,	|%d|,	%o,	%x",num, num,num,num);
+}
+"C:\Users\kang6\OneDrive\사진\스크린샷\2022-03-31 (2).png"
