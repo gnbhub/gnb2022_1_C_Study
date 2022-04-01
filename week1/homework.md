@@ -17,3 +17,5 @@
 |number      |decimal     |octal       |hexadecimal |
 |54          |+54         |66          |36          |
 ```
+
+![image](https://user-images.githubusercontent.com/51956616/161231318-86bcc6e3-e15a-44c4-92bb-919abbbdf2ec.png)
