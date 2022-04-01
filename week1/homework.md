@@ -18,4 +18,4 @@
 |54          |+54         |66          |36          |
 ```
 
-![image](https://user-images.githubusercontent.com/51956616/161231318-86bcc6e3-e15a-44c4-92bb-919abbbdf2ec.png)
+![캡처](https://user-images.githubusercontent.com/51956616/161231943-75764d9b-f5e1-4ae4-8ca3-a28f1b898081.PNG)
