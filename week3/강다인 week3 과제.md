@@ -1,3 +1,4 @@
+```c
 #include <stdio.h>
 int main(void)
 {
@@ -31,8 +32,9 @@ int main(void)
 	}
 	return 0;
 }
+```
 https://1drv.ms/u/s!At3ANar7lOgBvEsoEcdbE7tKE14Y?e=dhE3mh
-
+```c
 #include <stdio.h>
 int main(void)
 {
@@ -48,7 +50,9 @@ int main(void)
 	}
 	return 0;
 }
+```
 https://1drv.ms/u/s!At3ANar7lOgBvEkTwtE_NYUGjejG?e=fPYLO0
+```c
 #include <stdio.h>
 int main(void)
 {
@@ -68,5 +72,6 @@ int main(void)
 	}
 	return 0;
 }
+```
 https://1drv.ms/u/s!At3ANar7lOgBvExPLPyTOLzWnw_y?e=PdjhFh
 마지막꺼는 못했습니다ㅠㅠ나중에 채워놓을게요!
