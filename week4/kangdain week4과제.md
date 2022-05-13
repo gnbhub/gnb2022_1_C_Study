@@ -24,7 +24,8 @@ void main() {
 	}
 }
 ```
-https://1drv.ms/u/s!At3ANar7lOgBvFFPyOQGYYyRHXuh?e=3LGq9H
+![2022-05-13](https://user-images.githubusercontent.com/102521485/168262457-071f29d6-2a8b-40da-ba42-fd1cad68761d.png)
+
 ```c
 #include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
@@ -60,4 +61,6 @@ int main(void)
 	}
 }
 ```
-https://1drv.ms/u/s!At3ANar7lOgBvFLwzoUf-Yoch6hK?e=tn31dG
+
+![2022-05-13 (1)](https://user-images.githubusercontent.com/102521485/168262297-c12a0cf6-5fd7-46bc-8730-426f1a42b811.png)
+
