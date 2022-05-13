@@ -32,13 +32,13 @@ void main() {
 int main(void)
 {
 	int i;
-	char str[5] = { 'a','p','p','l','e','\0'};
-	for(i = 5; i > 0; i-- ) {
-		printf("%s", str[i]);
+	char str[6] = { 'a','p','p','l','e','\0' };
+	for (i = 5; i >=0; i--) {
+		printf("%c", str[i]);
 	}
 }
 ```
-실패한 코드...
+![2022-05-13 (4)](https://user-images.githubusercontent.com/102521485/168265159-2bc714ec-c221-41f8-a1fc-553917d69b16.png)
 ```c
 #include <stdio.h>
 #define _CRT_SECURE_NO_WARNINGS
