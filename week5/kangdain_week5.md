@@ -10,7 +10,7 @@ int main(void)
 	scanf_s("%f", &r);
 	a=area(r);
 	b = volume(r);
-	printf("넚이: %.3f", a);
+	printf("넓이: %.2f", a);
 	printf("둘레: %.2f", b);
 
 	return 0;
