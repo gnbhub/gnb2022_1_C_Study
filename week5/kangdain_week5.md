@@ -56,6 +56,8 @@ int solve(int n)
 	}
 	return result;
 }
+/*함수에 꼭 return 값이 있어야 하는 건 아니예요!!
+result 들어가는 코드 없애고 for문 조건 조금 수정하면 완벽해요👍👍*/
 ```
 https://1drv.ms/u/s!At3ANar7lOgBvG13hDMZQdhkRSLd?e=3j2NHj
 https://1drv.ms/u/s!At3ANar7lOgBvG5L6ZCRQRazrGJh?e=3qLxV7
