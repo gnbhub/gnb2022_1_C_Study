@@ -6,9 +6,9 @@
 ####  4. 문장 최대 길이는 50자
 ```
 입력 예)
-Hello world WeLcoMe to C
+Hello wo123rld WeLcoMe to C
 
 출력 예)
-HELLO WORLD WELCOME TO C
+HELLO WO123RLD WELCOME TO C
 ```
 ⭐ 아스키 코드를 기억해 보아요~~
