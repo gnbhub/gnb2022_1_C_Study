@@ -13,8 +13,9 @@ void func(char*str) {
 		i++;
 	}
 }
+```
 ![2022-05-24](https://user-images.githubusercontent.com/102521485/170033593-3156672d-2e15-4819-b456-01c791d536c7.png)
-
+```c
 int main()
 {
 	int i=0;
@@ -23,6 +24,6 @@ int main()
 	gets_s(str, sizeof(str));
 	func(str);
 }
-```c
+```
 ![2022-05-24](https://user-images.githubusercontent.com/102521485/170033614-32df12ad-3baf-4f10-ac95-0f3e28eea14b.png)
 
